@@ -3,7 +3,6 @@ title: Home
 layout: home
 nav_order: 1
 ---
-
 # CCAW: A Crash Course in Academic Writing
 
 ## About these materials
