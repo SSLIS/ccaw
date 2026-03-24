@@ -7,6 +7,13 @@ url: https://WoutDLN.github.io/CCAW
 aux_links:
   Template Repository: https://github.com/WoutDLN/CCAW
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/img/seesaw.png"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/img/seesaw.ico"
+
+
 # I tried to copy the GitHub Pages default settings as much as possible
 # See https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
 callouts:
