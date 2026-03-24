@@ -16,13 +16,14 @@ nav_order: 3
 
 A quote is a direct citation taken from a source. We mainly use these when an author makes an especially poignant point, or phrases a relevant statement in a succinct or well-written way. You can basically quote any text that is relevant for your own writing, and that you don’t think would improve when you try to phrase it in your own words. In addition, you may also want to quote a source to imply that the conclusions drawn are the original author’s — and not necessarily yours.
 
-When we quote, we retain the author’s original phrasing (insofar it fits within our own sentences and larger narrative), mark any changes we make to the original with `[square brackets]`, surround the quotation with `“quotation marks”`, and we **always** specify exactly where the quote was lifted from by using [[Page Numbers and other Locators]] in our in-text parenthetical reference. 
+When we quote, we retain the author’s original phrasing (insofar it fits within our own sentences and larger narrative), mark any changes we make to the original with `[square brackets]`, surround the quotation with `“quotation marks”`, and we **always** specify exactly where the quote was lifted from by using [page numbers and other locators](pagenrs.html) in our in-text parenthetical reference. 
 
 ## A standard quote
 
 For example, we might find the following statement in a source document:
 
 > In the case of *The Talisman*, for which King at times physically shared a writing desk with his co-author, the exchange of ideas beforehand and during the drafting process clearly influenced the other novels he was working on.
+>
 > ([Neyt 2025](https://journals.openedition.org/variants/2115), ¶ 36)
 
 Which we could incorporate as a quote into our own writing as follows:
@@ -57,6 +58,7 @@ Or we could correct the typo:
 For an example of how we might edit a quote to fit our own sentence structure, consider the following quote from the original:
 
 > In this article, I shall argue that *Peter and Madonna* is a product of this frustration. Noting the chronological concurrence of the text with Malherbe’s torturous composition of the “memoir notes” in the post-war and post-Schwob years, I propose that it constitutes not merely an extended ludic interlude from memoir drafting, but an autofictional text which experiments with alternative ways to translate a life — or two intertwined lives — into textual form.
+>
 > ([Frost 2025](https://journals.openedition.org/variants/2082), ¶3)
 
 Which we might incorporate into our own text as follows:
@@ -79,6 +81,7 @@ Technically speaking, though, both uses are acceptable.
 When we are quoting an author who, in the relevant phrase, is in turn quoting someone else, we can nest quotes within quotes by double and single quotation marks. Double quotes within double quotes become single quotes. Single quotes within single quotes in turn become double quotes. For example, say that we have the following source text:
 
 > First, that the document plays a genetic role in our approach to life-writing, rewriting the “set of norms that precede and exceed the subject” surrounding any “work on the self” (Butler 2005, 17).
+>
 > (Frost 2025, ¶50)
 
 We could incorporate this into our own writing as follows: 

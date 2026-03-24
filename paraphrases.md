@@ -24,7 +24,9 @@ A paraphrase is a retelling of relevant information from your consulted source m
 For an example of a more precise paraphrase of a particular argument in the source text, consider the paper’sclosing paragraph, which reads:
 
 > As Peter Robinson asked, “exactly what is the text which the editor represents as present in the document?” (2013, 113). Suppose we approach the geneticist’s narrative of reconstruction as a practice of selecting, combining, and disclosing aspects of the textual materials under development. Whichever narrative path the geneticist takes in his study (sometimes manuscript analysis resembles a detective story, sometimes a *bildungsroman*), structuring the narrative of the avant-texte is akin to playing with a kaleidoscope. Each time the critic returns to the manuscripts, the fragments of the avant-texte fall into slightly new (sometimes contradictory) interpretive combinations. In the case of born-digital manuscripts, these combinations can also acquire a distinctive hue depending on the voice of the agent involved in producing textual variants. To tell the story of the reconstruction of genesis is trying to catch the sparrow as it is about to fly away.
-> (Gervytė 2025, ¶34)
+>
+>(Gervytė 2025, ¶34)
+
 
 From which we may distil the following paraphrase:
 
@@ -80,7 +82,7 @@ Especially when we are summarising a complete source, or when we are paraphrasin
 
 Referencing page or paragraph numbers where relevant is considered best practice, and a practice we expect you to adhere to as you are fine-tuning your academic writing skills. Doing so  is a common curtesy to your readers, who may find your research relevant, and want to look up the claims you are referencing for their own research purposes. But it also increases your accountability: it gives your readers a chance to verify your claims, and judge for themselves if they agree with your interpretation of the source materials. This in turn helps to build the reader’s trust in your judgment and academic integrity.
 
-For all these reasons, you should always reference a page number (or other locator) when you are paraphrasing a specific claim that can be traced back to a particular sentence or paragraph in your source materials. Some good examples of how to do so can be found in the above. It is also possible to reference particularly relevant sections or chapters in the source materials. More information on how to do so can be found in the page on [[Page Numbers and other Locators]].
+For all these reasons, you should always reference a page number (or other locator) when you are paraphrasing a specific claim that can be traced back to a particular sentence or paragraph in your source materials. Some good examples of how to do so can be found in the above. It is also possible to reference particularly relevant sections or chapters in the source materials. More information on how to do so can be found in the page on [page numbers and other locators](pagenrs.html).
 
 ## References
 

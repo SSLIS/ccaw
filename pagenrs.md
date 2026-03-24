@@ -1,9 +1,9 @@
 ---
-title: Page Numbers and other Locators
+title: Page Numbers etc.
 layout: home
 nav_order: 5
 ---
-# Page Numbers and other Locators
+# Page Numbers etc.
 {: .no_toc }
 
 ## Table of Contents
@@ -14,7 +14,7 @@ nav_order: 5
 
 ## Always be as precise as possible
 
-As we discussed when we talked about [[When and How to Quote]] and [[When and How to Paraphrase]], page numbers (and other locators) form an integral part of our citation practices. They are absolutely crucial when we quote a source, and it is considered best practice to use them when we paraphrase wherever possible and relevant. Doing so increases the accountability of our work, and helps us to attain the overall goal of good academic writing to limit ambiguous language, and be as precise as we can in our academic analyses and formulations. But not all source materials have page numbers, and paraphrased arguments cannot always be pinned down to a single sentence. This page offers some tips on how to deal with those issues.
+As we discussed when we talked about [when and how to quote](quotes.html) and [when and how to paraphrase](paraphrases.html), page numbers (and other locators) form an integral part of our citation practices. They are absolutely crucial when we quote a source, and it is considered best practice to use them when we paraphrase wherever possible and relevant. Doing so increases the accountability of our work, and helps us to attain the overall goal of good academic writing to limit ambiguous language, and be as precise as we can in our academic analyses and formulations. But not all source materials have page numbers, and paraphrased arguments cannot always be pinned down to a single sentence. This page offers some tips on how to deal with those issues.
 
 ## What if my academic source does not include page numbers?
 
@@ -65,7 +65,7 @@ If none of these apply to your case, it is always possible to count the source�
 
 ### When citing non-academic source materials
 
-Non-academic web-only source materials (e.g., policy pages, regular web pages, Wikipedia entries, etc.) include relevant locators less frequently than academic materials do. Before citing such sources, read our tips regarding [[Citing credible sources]], to make sure the document you are referencing belongs in your paper, and what kind of context you would need to preface it with. When you do decide to incorporate your non-academic source in your text, check to see if any of the above mentioned methods are available to you, and apply them where relevant. When they are not, you can also use ’n.p’ to indicate having performed your due diligence.
+Non-academic web-only source materials (e.g., policy pages, regular web pages, Wikipedia entries, etc.) include relevant locators less frequently than academic materials do. Before citing such sources, read our tips regarding [what to cite](what-to-cite.html), to make sure the document you are referencing belongs in your paper, and what kind of context you would need to preface it with. When you do decide to incorporate your non-academic source in your text, check to see if any of the above mentioned methods are available to you, and apply them where relevant. When they are not, you can also use ’n.p’ to indicate having performed your due diligence.
 
 ## References
 
