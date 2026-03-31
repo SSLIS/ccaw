@@ -24,7 +24,7 @@ For example, we might find the following statement in a source document:
 
 > In the case of *The Talisman*, for which King at times physically shared a writing desk with his co-author, the exchange of ideas beforehand and during the drafting process clearly influenced the other novels he was working on.
 >
-> ([Neyt 2025](https://journals.openedition.org/variants/2115), ¶ 36)
+> ([Neyt 2025](https://journals.openedition.org/variants/2115), ¶36)
 
 Which we could incorporate as a quote into our own writing as follows:
 
@@ -101,7 +101,7 @@ Sometimes, what we’re really interested in is not so much the text of our sour
 > This is what Judith Butler called “working on the self” in her monograph *Giving an Account of Oneself* (Butler 2005, 17; qtd. in Frost 2025 ¶50).
 
 ## Quoting longer citations
-When we need to quote a longer span of text to make a more nuanced point about previous research, it may become too long to be included in the running text, and should be presented as a ‘block quote’ instead: preceded and followed by a line of whitespace; and formatted with an indented margin, and smaller font size. Typically, block quotes are **not** surrounded by quotation marks; the block quote format in itself already indicates that the text is lifted from the original source. For that same reason, the in-text parenthetical citation should not be included in the quoted sentence, but placed **after** the quotation’s last full stop. An elegant way of formatting this, is to put the reference on a separate line, below the quoted text, as such:
+When we need to quote a longer span of text to make a more nuanced point about previous research, it may become too long to be included in the running text, and should be presented as a ‘block quote’ instead: preceded and followed by a line of whitespace; and formatted with an indented margin, and smaller font size. Block quotes are typically **not** surrounded by quotation marks; the block quote format in itself already indicates that the text is lifted from the original source. For that same reason, the in-text parenthetical citation should not be included in the quoted sentence, but placed **after** the quotation’s last full stop. An elegant way of formatting this, is to put the reference on a separate line, below the quoted text, as such:
 
 {: .best-title }
 > <span class="emoji-green">&#10024;</span> Best Practice
@@ -121,6 +121,9 @@ Some considerations to take into account when you are using a block quote:
 Quoted words and phrases can easily be taken out of context, and be made to mean or imply things that were never considered in the original source. This should be avoided at all costs, by carefully and critically reading the original source, and making sure your reference remains true to its original meaning. You should also provide additional context to resolve any remaining ambiguities, if only in a footnote.
 
 ## References
-- [ ] Butler 2005
-- [ ] Frost 2025
-- [ ] Neyt 2025
+
+Butler, J. (2005). *Giving an Account of Oneself*. Fordham Univ. Press.
+
+Frost, K. (2025). Wading Through Memories: Creative Concurrence and Recurrence in Suzanne Malherbe’s Peter and Madonna and the Memoir Notes. *Variants. The Journal of the European Society for Textual Scholarship*, (19), 163–188. [https://doi.org/10.4000/15do9](https://doi.org/10.4000/15do9)
+
+Neyt, V. (2025). A Nexus of Worlds: Stephen King’s Concurrent Work on IT, The Talisman, and The Tommyknockers. Variants. The Journal of the European Society for Textual Scholarship, (19), 189–204. [https://doi.org/10.4000/15doa](https://doi.org/10.4000/15doa])

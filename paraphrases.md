@@ -21,7 +21,7 @@ A paraphrase is a retelling of relevant information from your consulted source m
 >
 > In a recent paper published in the journal *Variants*, Dovilė Gervytė explores the born-digital writing process of Lithuanian author Tomas Vaiseta’s recent novel *Ch.* (Gervytė 2025).
 
-For an example of a more precise paraphrase of a particular argument in the source text, consider the paper’sclosing paragraph, which reads:
+For an example of a more precise paraphrase of a particular argument in the source text, consider the paper’s closing paragraph, which reads:
 
 > As Peter Robinson asked, “exactly what is the text which the editor represents as present in the document?” (2013, 113). Suppose we approach the geneticist’s narrative of reconstruction as a practice of selecting, combining, and disclosing aspects of the textual materials under development. Whichever narrative path the geneticist takes in his study (sometimes manuscript analysis resembles a detective story, sometimes a *bildungsroman*), structuring the narrative of the avant-texte is akin to playing with a kaleidoscope. Each time the critic returns to the manuscripts, the fragments of the avant-texte fall into slightly new (sometimes contradictory) interpretive combinations. In the case of born-digital manuscripts, these combinations can also acquire a distinctive hue depending on the voice of the agent involved in producing textual variants. To tell the story of the reconstruction of genesis is trying to catch the sparrow as it is about to fly away.
 >
@@ -55,7 +55,7 @@ A better practice would be to try to find a way to paraphrase the argument in a 
 >
 > In her paper, Gervytė argues that the editor’s interpretation of the *avant-texte* can be coloured by those who made changes to the drafts – especially when working with born-digital writing processes (Gervytė 2025, ¶34).
 
-However, when we’re particularly interested in a specific claim that was made by the author, that can be pinpointed to a precise place in the source, it may be more appropriate to just quote the source directly. Or, when you think the original phrasing could be improved, to include a quote inside your paraphrase instead. This would allow you to clarify the author’s text, while also preserving some of their metaphors or other apt phrasings. For example:
+However, when we’re particularly interested in a specific claim that was made by the author, that can be pinpointed to a precise place in the source, it may be more appropriate to just quote the source directly. Or, when you think the original phrasing could be improved, you could include a quote inside your paraphrase instead. This would allow you to clarify the author’s text, while also preserving some of their metaphors or other apt phrasings. For example:
 
 {: .best-title }
 > <span class="emoji-green">&#10024;</span> Best Practice
@@ -86,4 +86,4 @@ For all these reasons, you should always reference a page number (or other locat
 
 ## References
 
-- [ ] Gervytė 2025
+Gervytė, D. (2025). The Author Husband, the Publisher Wife, and the Humble Servant Editor, or A Scholar Chasing a Sparrow. *Variants. The Journal of the European Society for Textual Scholarship*, (19), 97–120. [https://doi.org/10.4000/15do6](https://doi.org/10.4000/15do6)

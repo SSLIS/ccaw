@@ -22,14 +22,15 @@ These materials were originally prepared with Master's students in mind. This me
 
 Finally, we want to emphasise that we are specifically focussing on issues that frequently come up in our evaluations of assignments, signalling that our students continue to struggle with them. As a result, we ask you not to consider our advice as an exhaustive guide to academic writing.
 
+## Definitions
+
 Throughout our crash course, a couple of important concepts keep coming up. Below, we try to offer some concise definitions so it becomes clear what we mean when we use them, and offer some things to keep in mind.
 
-## Definitions
 ### Source materials
 
 When you are writing an academic text, your sources are any materials you use to build your own scholarly argument. Some of these may be academic sources, published in academically vetted publication venues. Some sources may be non-academic, like websites, policy documents, etc. Some may inhabit a space in between, having been written by academics, following academic standards, but without formally having passed through an established review process yet. 
 
-While your focus should be on academic sources, non-academic sources can be used with moderation, as long as they are clearly placed in the right context in your writing. For examples of academic and non-academic sources materials, which of these to use, which to avoid, and how to put them in the right context, see our page on [[Premise and Definitions]].
+While your focus should be on academic sources, non-academic sources can be used with moderation, as long as they are clearly placed in the right context in your writing. For examples of academic and non-academic sources materials, which of these to use, which to avoid, and how to put them in the right context, see our page on [which sources to use](sources.html).
 
 ### Bibliography
 
@@ -45,9 +46,9 @@ The full reference to a source is the reference as it is included in your biblio
 
 ### In-text reference
 
-The in-text reference is a shorthand version of the full reference, that allows you to point to any full reference in your bibliography. It lists the relevant information to navigate the bibliography. Usually this is the source’s author and year of publication, but this varies across referencing systems. The in-text reference also always specifies exactly where the quoted or paraphrased information can be found in the source (e.g., in the form of a page number), where possible and relevant. For more information on when to include which locating information in your in-text references, check out our page on [[Page Numbers etc.]] 
+The in-text reference is a shorthand version of the full reference, that allows you to point to any full reference in your bibliography. It lists the relevant information to navigate the bibliography. Usually this is the source’s author and year of publication, but this varies across referencing systems. The in-text reference also always specifies exactly where the quoted or paraphrased information can be found in the source (e.g., in the form of a page number), where possible and relevant. For more information on when to include which locating information in your in-text references, check out our page on [page numbers etc.](pagenrs.html) 
 
-In-text references are usually parenthetical references. This means that the information appears inside a `(parenthesis)` that is placed at the end of a sentence (or sub-sentence). But it is also possible to weave most of the relevant information into your narrative. If you do, and it is unambiguously clear which source from your bibliography you are referencing, that relevant information no longer needs to be included inside a parenthetical reference. This type of reference (where the relevant information is incorporated into your text) is called a ‘narrative in-text reference’ (in contrast to a ‘parenthetical in-text reference’). An example could be the following:
+In-text references are usually parenthetical references.[^1] This means that the information appears inside a `(parenthesis)` that is placed at the end of a sentence (or sub-sentence). But it is also possible to weave most of the relevant information into your narrative. If you do, and it is unambiguously clear which source from your bibliography you are referencing, that relevant information no longer needs to be included inside a parenthetical reference. This type of reference (where the relevant information is incorporated into your text) is called a ‘narrative in-text reference’ (in contrast to a ‘parenthetical in-text reference’). An example could be the following:
 
 {: .best-title }
 > <span class="emoji-green">&#10024;</span> Best Practice
@@ -56,7 +57,7 @@ In-text references are usually parenthetical references. This means that the inf
 
 In this example, the first sentence is a [paraphrase](paraphrases.html). And since it summarises the article’s overarching narrative, the reference applies to the whole article and does not require a page or paragraph number. If we were using a parenthetical in-text reference, we would place `(Johansson 2025)` at the end of the first sentence. However, since both the author and the title of the article were already explicitly mentioned in our ‘narrative’ sentence itself, we can use this information to look up the reference in the bibliography (even if more works by the same author had been referenced in the same text). This makes the parenthetical in-text reference largely redundant, allowing us to leave it out.
 
-The second sentence, on the other hand, includes a [quote](quotes.html), which always requires a locator (here: paragraph number), which has therefore been added in a parenthesis at the end of the sentence. Because we can unambiguously derive from the example’s larger context that we are still talking about the same source (which, in this case, has been referenced with a narrative in-text reference in the previous sentence), we do not have to repeat that information here, allowing us to keep the name and year out of this parenthetical reference as well. To learn more about the difference between paraphrases and quotes, and which information to reference when, check out out pages on [[When and How to Paraphrase]] and [[When and How to Quote]].  
+The second sentence, on the other hand, includes a [quote](quotes.html), which always requires a locator (here: paragraph number), which has therefore been added in a parenthesis at the end of the sentence. Because we can unambiguously derive from the example’s larger context that we are still talking about the same source (which, in this case, has been referenced with a narrative in-text reference in the previous sentence), we do not have to repeat that information here, allowing us to keep the name and year out of this parenthetical reference as well. To learn more about the difference between paraphrases and quotes, and which information to reference when, check out out pages on [when and ow to paraphrase](paraphrases.html) and [when and how to quote](quotes.html).  
 
 {: .note-title }
 > <span class="emoji-blue">ⓘ</span> Note
@@ -65,11 +66,11 @@ The second sentence, on the other hand, includes a [quote](quotes.html), which a
 
 ### Locator
 
-A locator is a part of the in-text reference that allows you to pinpoint exactly where the quoted or paraphrased information you are referencing can be located in the source. In most cases, this will be a page number, but alternatives are available for sources that do not use page numbers. In the above example, for instance, the locator used is a paragraph number. For more information on locators, when they are absolutely required, and when they come highly recommended, and to learn more about alternative types of locators, please refer to out our page on [[Page Numbers etc.]]
+A locator is a part of the in-text reference that allows you to pinpoint exactly where the quoted or paraphrased information you are referencing can be located in the source. In most cases, this will be a page number, but alternatives are available for sources that do not use page numbers. In the above example, for instance, the locator used is a paragraph number. For more information on locators, when they are absolutely required, and when they come highly recommended, and to learn more about alternative types of locators, please refer to out our page on [page numbers etc.](pagenrs.html)
 
 ### Plagiarism
 
-Plagiarism is the act of presenting someone else’s work as your own, or otherwise copying or building on the works of others without proper attribution. In out case, plagiarism can be prevented by always disclosing the texts and tools you have used to write your text, as precisely as possible, and otherwise following the best practices discussed in these pages. The unauthorised use of Generative AI (GenAI), and authorised the use of AI without proper disclosure, are also considered as plagiarism. In these cases too the work of others (here: GenAI) is misleadingly presented as your own. The general exception to this rule are your word processor’s integrated spellchecker and thesaurus functions, which do not need to be disclosed. 
+Plagiarism is the act of presenting someone else’s work as your own, or otherwise copying or building on the works of others without proper attribution. In our case, plagiarism can be prevented by always disclosing the texts and tools you have used to write your text, as precisely as possible, and otherwise following the best practices discussed in these pages. The unauthorised use of Generative AI (GenAI), and authorised the use of AI without proper disclosure, are also considered as plagiarism. In these cases too the work of others (here: GenAI) is misleadingly presented as your own. The general exception to this rule is your word processor’s integrated spellchecker, and its thesaurus function,[^2] neither of which need to be disclosed. 
 
 {: .danger-title }
 > <span class="emoji-red">🛑</span> Danger
@@ -78,4 +79,10 @@ Plagiarism is the act of presenting someone else’s work as your own, or otherw
 
 ## References
 
-- [ ] Johansson 2025
+Johansson, F. (2025). Ventures Towards an Authorial Avant-texte: From Print to Digital Environment. *Variants. The Journal of the European Society for Textual Scholarship*, (19), 15–36. [https://doi.org/10.4000/15do1](https://doi.org/10.4000/15do1)
+
+---
+
+[^1]: Some citation styles perscribe authors to add full-text references in the footnotes (abbreviated with 'ibid.' when repeating a reference), instead of combining in-text parenthetical references with a full bibliography. This practice is mostly confined to select disciplines in the traditional Humanities, however, and quite rare in the Social Sciences. 
+
+[^2]: Please use the thesaurus function with caution. Words listed as synonyms are not always completely interchangeable, and some (otherwise correct) synonyms will also look wildly out of place when the register (or jargon) suddenly changes in the text.

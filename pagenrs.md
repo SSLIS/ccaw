@@ -69,13 +69,14 @@ Non-academic web-only source materials (e.g., policy pages, regular web pages, W
 
 ## References
 
-- [ ] Levina 2025
-- [ ] Van Hulle 2025
+Levina, J. (2025). A Hermeneutics of Authorial and Editorial Integrities in The Complete Prose of T. S. Eliot. *Variants. The Journal of the European Society for Textual Scholarship*, (19), 121–138. [https://doi.org/10.4000/15do7](https://doi.org/10.4000/15do7)
+
+Van Hulle, D. (2025). The Author as Reader: Modernist Marginalia and Authors’ Libraries between Exogenesis and Intertextuality. *Variants. The Journal of the European Society for Textual Scholarship*, (19), 69–89. [https://doi.org/10.4000/15do4](https://doi.org/10.4000/15do4)
 
 ---
 
-[^1]: See, for example, here: https://publicera.kb.se/ir.
-[^2]: See, for example, here: https://link.springer.com/article/10.1007/s10664-024-10486-0.
-[^3]: See, for example, here: https://journals.openedition.org/variants/1969.
+[^1]: See, for example, here: [https://publicera.kb.se/ir](https://publicera.kb.se/ir).
+[^2]: See, for example, here: [https://link.springer.com/article/10.1007/s10664-024-10486-0](https://link.springer.com/article/10.1007/s10664-024-10486-0)
+[^3]: See, for example, here: [https://journals.openedition.org/variants/1969](https://journals.openedition.org/variants/1969).
 [^4]: In this case, you can download the PDF version by clicking on the `facsimile` button located right above the paper’s first paragraph, which also indicates the download’s file format (PDF) and file size (318 kilobytes). 
 [^5]: Of course, as a publication in *Variants*, the example paper has both page and paragraph numbers available, which should be preferred over referencing section numbers. The example only serves to illustrate the practice.

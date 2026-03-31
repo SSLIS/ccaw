@@ -45,8 +45,10 @@ Editorials and introductions can provide useful context to the sources you are r
 
 When you do, and you paraphrase or quote these documents in your own writing, you should take into account that, valuable as they may be, they have usually not been peer-reviewed, and should be treated as the editors’ unvetted (albeit educated) opinions. As a result, when you do use these sources in your writing, you should always indicate in the text what type of source you are referencing 
 
-> [!TIP] Best Practice
-> (Dillen et al. 2025)
+{: .best-title }
+> <span class="emoji-green">&#10024;</span> Best Practice
+>
+> As the editors of *Variants 19* explain in their editorial, the 2025 issue combines extended versions of papers that were presented at the 2023 ESTS and GENESIS conferences with two spontaneously submitted essays (Dillen et al. 2025).
 
 ### Preprints and other pre-peer-reviewed sources 
 
@@ -58,4 +60,4 @@ Because preprints have not yet been peer-reviewed, you should be especially care
 
 ## References 
 
-- [ ] Dillen et al. 2025
+Dillen, W., Pereira, E., & Rosignoli, S. (2025). Editors’ Preface. *Variants. The Journal of the European Society for Textual Scholarship*, (19), iii–vi. [https://doi.org/10.4000/15dof](https://doi.org/10.4000/15dof)
