@@ -18,6 +18,7 @@ This resource was developed during Wout's employment at the University of Borås
 This resource is designed as a [Jekyll](https://jekyllrb.com) site that uses the [Just the Docs](https://just-the-docs.com) theme and is built and published on [GitHub Pages](https://docs.github.com/en/pages).
 
 <div style="display:flex;justify-content:center">
+<a href="https://www.hb.se/en/the-swedish-school-of-library-and-information-science-sslis/"><img src="assets/img/hb-sslis.jpg" alt="The Swedish School of Library and Information Science at the University of Borås" style="height:5rem;margin:2rem"></a>
 <a href="https://www.huminfra.se"><img src="assets/img/huminfra.png" alt="Huminfra" style="height:5rem;margin:2rem"></a>
 <a href="https://www.huminfra.se/dariah"><img src="assets/img/dariah-se.png" alt="DARIAH-SE" style="height:5rem;margin:2rem"></a>
 <div>
