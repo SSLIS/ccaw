@@ -6,7 +6,7 @@ CCAW (pronounced: *see-saw*, like the playground feature) is a training resource
 
 ## Website Link
 
-🚀 Visit CCAW here: [https://woutdln.github.io/ccaw/](https://woutdln.github.io/ccaw/).
+🚀 Visit CCAW here: [https://sslis.github.io/ccaw/](https://sslis.github.io/ccaw/).
 
 ## Affiliations
 
