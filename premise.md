@@ -34,7 +34,7 @@ While your focus should be on academic sources, non-academic sources can be used
 
 ### Bibliography
 
-Your bibliography is a list all the source materials you have incorporated into your own writing. Sometimes the heading of this list is called ‘Bibliography’, sometimes ‘References’, sometimes ‘Works Cited’, etc. Some disciplines distinguish between ‘bibliographies’ and ‘works cited lists’, in which case a ‘bibliography’ can be more more extensive than a ‘works cited list’, and also include relevant (reference) works that may not have been mentioned in the text itself. We do not make such a distinction, and will usually advise our students to label their list of references as a ‘Bibliography’. 
+Your bibliography is a list of all the source materials you have incorporated into your own writing. Sometimes the heading of this list is called ‘Bibliography’, sometimes ‘References’, sometimes ‘Works Cited’, etc. Some disciplines distinguish between ‘bibliographies’ and ‘works cited lists’, in which case a ‘bibliography’ can be more more extensive than a ‘works cited list’, and also include relevant (reference) works that may not have been mentioned in the text itself. We do not make such a distinction, and will usually advise our students to label their list of references as a ‘Bibliography’. 
 
 As such, we expect your bibliography to contain **all** the works that have been referenced in your text, and **only** the works that have been referenced in your text. In other words: every in-text reference in your text (be that a narrative or parenthetical reference) needs to be expanded into a full reference in your bibliography; and every reference in your bibliography needs to be used and referenced at some point in your text. 
 
@@ -83,6 +83,6 @@ Johansson, F. (2025). Ventures Towards an Authorial Avant-texte: From Print to D
 
 ---
 
-[^1]: Some citation styles perscribe authors to add full-text references in the footnotes (abbreviated with 'ibid.' when repeating a reference), instead of combining in-text parenthetical references with a full bibliography. This practice is mostly confined to select disciplines in the traditional Humanities, however, and quite rare in the Social Sciences. 
+[^1]: Some citation styles demand that authors add full-text references in the footnotes (abbreviated with 'ibid.' when repeating a reference), instead of combining in-text parenthetical references with a full bibliography. This practice is mostly confined to select disciplines in the traditional Humanities, however, and quite rare in the Social Sciences. 
 
 [^2]: Please use the thesaurus function with caution. Words listed as synonyms are not always completely interchangeable, and some (otherwise correct) synonyms will also look wildly out of place when the register (or jargon) suddenly changes in the text.
