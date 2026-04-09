@@ -14,7 +14,7 @@ nav_order: 4
 
 ## What is a paraphrase?
 
-A paraphrase is a retelling of relevant information from your consulted source materials, summarised in your own words. We paraphrase when we want to convey the general gist of an academic source (peer reviewed paper, book chapter, monograph…), or even a particular argument the original author has made. We can also paraphrase when we can’t find a good way to incorporate the author’s specific phrasing into our text, or when we simply think we have found a better phrasing to make the same point. A simple example, summarising one of the main points of an academic could look like this:
+A paraphrase is a retelling of relevant information from your consulted source materials, summarised in your own words. We paraphrase when we want to convey the general gist of an academic source (peer reviewed paper, book chapter, monograph…), or even a particular argument the original author has made. We can also paraphrase when we can’t find a good way to incorporate the author’s specific phrasing into our text, or when we simply think we have found a better way to make the same point. A simple example, summarising one of the main points of an academic article could look like this:
 
 {: .best-title }
 > <span class="emoji-green">&#10024;</span> Best Practice
@@ -74,7 +74,7 @@ When we are paraphrasing someone else’s work, **we always have to include an i
 
 Here, both the author’s name and the source’s year of publication are already incorporated in our description of the source, allowing the reader to easily find the source in our reference list, thereby foregoing the need to include the full in-text reference at the end of the sentence. Note, however, that the year is still parenthesised, even in this example, which could be interpreted as an abbreviated version of the parenthetical reference in itself. Technically, it would be possible to remove even this, e.g., by replacing the word “recent” with the year “2025”, or by exchanging the entire phrase “In a recent paper published in the journal *Variants* (2025)” with “In a paper published in 2025”. All these forms are considered correct, and choosing between them is largely a personal preference – although some uses may be more acceptable in specific cultures, (sub)disciplines, publication venues, etc. In general, however, we would encourage you to use either of the two examples given above, for improved clarity. 
 
-Finally, it should go without saying that even when the author and year of your paraphrased source are mentioned solely in your description, **you should never forget include the full reference in your text’s bibliography**. Failing to do renders your bibliography incomplete, which may result in the downgrading or failure of your assignments. 
+Finally, it should go without saying that even when the author and year of your paraphrased source are mentioned solely in your description, **you should never forget include the full reference in your text’s bibliography**. Failing to do so renders your bibliography incomplete, which may result in the downgrading or failure of your assignments. 
 
 ### Referencing page numbers etc.
 
