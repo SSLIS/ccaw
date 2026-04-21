@@ -57,7 +57,9 @@ If using a plural verb in this case sounds weird to you, remember that you van a
 
 ## Where to place footnotes
 
-Footnotes should always be placed after all punctuation that is attached to the previous word. This includes commas, semi-colons, quotation marks, full stops, and closing parentheses. For example:
+Before adding a footnote to your text, always ask yourself whether you need it. When the information you are sharing in your footnote is essential to your overal argument, it should probably be included in the main text. And in many cases, when the information is non-essential, it is better to remove it altogether. Footnotes encourage the reader to move their attention from the body of the text to the margins, which distracts the reader from the point you are trying to make. Do not be afraid to 'kill your darlings', especially if doing so helps to clarify your overarching narrative. This is also why some publication venues or examiners may explicitly forbid the use of footnotes. Here too: always check the relevant instructions and guidelines.
+
+That said, in some contexts footnotes may be warranted, and footnote tolerance can vary widely across disciplines, cultures, and venues. So when you do use footnotes, be sure to format them correctly. Footnotes should always be placed after all punctuation that is attached to the previous word. This includes commas, semi-colons, quotation marks, full stops, and closing parentheses. For example:
 
 {: .best-title }
 > <span class="emoji-green">&#10024;</span> Best Practice
