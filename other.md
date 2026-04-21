@@ -29,6 +29,7 @@ While you have some academic freedom when it comes to choosing your writing styl
 To a large extent, your reader will (consciously or subconsciously) judge your abilities as a critical and independent thinker on the way you talk about the previous research you are referencing. This, in turn, is often coded in the verbs you use. 
 
 For example, when you use formulations like ‘X writes’,  ‘says’, or ‘states’, you are just repeating the information. This implies that you take the previous research at face value, unquestioningly. On the other hand, if you use verbs like ‘claims’, ‘argues’, or ‘suggests’, this implies that you interpret the author’s arguments to represent one more or less valid position in a larger scholarly debate. 
+
 ## You are quoting people, not documents
 
 We often see students use the singular form to describe sources with multiple authors. For example: 
