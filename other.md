@@ -55,6 +55,10 @@ If using a plural verb in this case sounds weird to you, remember that you van a
 >
 > In their 2021 paper, Baillot and Bush claimed […]. 
 
+## On ascribing agency to sources
+
+When we take the previous two points to heart, where we a) treat academic sources as arguments that are expressed by researchers who participate in a larger academic discussion, and b) try to use precise and nuanced language when we build on those arguments in our own writing, we should also be warry of ascribing agency to those sources where it is not warranted. Oftentimes, students will use constructions such as 'this paper highlights', when it is actually the source's author who is highlighting, emphasising, etc. What is more, by amplifying the referenced author's voice in your own text, it is often **you** who are doing the highlighting. This is especially true in cases where you are zooming in on an easily overlooked argument, or adding nuance to the author's perspective. Do not be afraid to take ownership of your own agency here; this too is a place where you can position yourself as a thoughtful reader and independent thinker. 
+
 ## Where to place footnotes
 
 Before adding a footnote to your text, always ask yourself whether you need it. When the information you are sharing in your footnote is essential to your overal argument, it should probably be included in the main text. And in many cases, when the information is non-essential, it is better to remove it altogether. Footnotes encourage the reader to move their attention from the body of the text to the margins, which distracts the reader from the point you are trying to make. Do not be afraid to 'kill your darlings', especially if doing so helps to clarify your overarching narrative. This is also why some publication venues or examiners may explicitly forbid the use of footnotes. Here too: always check the relevant instructions and guidelines.
