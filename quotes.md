@@ -126,4 +126,4 @@ Butler, J. (2005). *Giving an Account of Oneself*. Fordham Univ. Press.
 
 Frost, K. (2025). Wading Through Memories: Creative Concurrence and Recurrence in Suzanne Malherbe’s Peter and Madonna and the Memoir Notes. *Variants. The Journal of the European Society for Textual Scholarship*, (19), 163–188. [https://doi.org/10.4000/15do9](https://doi.org/10.4000/15do9)
 
-Neyt, V. (2025). A Nexus of Worlds: Stephen King’s Concurrent Work on IT, The Talisman, and The Tommyknockers. Variants. The Journal of the European Society for Textual Scholarship, (19), 189–204. [https://doi.org/10.4000/15doa](https://doi.org/10.4000/15doa])
+Neyt, V. (2025). A Nexus of Worlds: Stephen King’s Concurrent Work on IT, The Talisman, and The Tommyknockers. *Variants. The Journal of the European Society for Textual Scholarship*, (19), 189–204. [https://doi.org/10.4000/15doa](https://doi.org/10.4000/15doa])
