@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/1187173712.svg)](https://doi.org/10.5281/zenodo.19855605)
+![GitHub](https://img.shields.io/github/license/SSLIS/ccaw)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/SSLIS/ccaw/pages.yml)
+
 # CCAW
 
 ## About
