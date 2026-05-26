@@ -12,7 +12,7 @@ nav_order: 6
 1. TOC
 {:toc}
 
-When you are preparing a writing assignment for a course at the university, you may receive specific instructions on which types sources you are and are not allowed to use, which sources to prioritise, or minimum or maximum amounts for (specific types of) sources to include. Always read the assignment instructions carefully, and follow them to the letter. Also remember that your assignment instructions will take priority over any advice given in these pages.
+When you are preparing a writing assignment for a course at the university, you may receive specific instructions on which types of sources you are and are not allowed to use, which sources to prioritise, or minimum or maximum amounts for (specific types of) sources to include. Always read the assignment instructions carefully, and follow them to the letter. Also remember that your assignment instructions will take priority over any advice given in these pages.
 
 In general, we can broadly divide potential source materials for your writing assignment into two types: academic sources, and non-academic sources. 
 
